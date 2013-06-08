@@ -1,0 +1,5 @@
+C:\Users\brivera\Documents\Visual Studio 2008\Projects\PGENL0006\bin\Debug\PGENL0006.dll
+C:\Users\brivera\Documents\Visual Studio 2008\Projects\PGENL0006\bin\Debug\PGENL0006.pdb
+C:\Users\brivera\Documents\Visual Studio 2008\Projects\PGENL0006\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\brivera\Documents\Visual Studio 2008\Projects\PGENL0006\obj\Debug\PGENL0006.dll
+C:\Users\brivera\Documents\Visual Studio 2008\Projects\PGENL0006\obj\Debug\PGENL0006.pdb
